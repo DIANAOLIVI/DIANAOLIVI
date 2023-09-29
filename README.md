@@ -1,6 +1,6 @@
 - 👋 ola,eu sou @DIANAOLIVI
 - 👀 estou interessada em programaçao  html
-- 🌱frequentemente buco aprender css.gihub,desenvolvimento pessoal
+- 🌱frequentemente busco aprender css.gihub,desenvolvimento pessoal
 - 💞️ eu sou aluna de penamento cupatacional/ colegio mario quintana.
 - 📫 How to reach me ...
 
