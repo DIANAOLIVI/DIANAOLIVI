@@ -1,8 +1,16 @@
+# sobre mim🫀
+
+## *editando perfil*
+### teste
+
+-**Olá sou @DIANAOLIVI**
+-:+1:0 meu [e-meil](adrielly.machado.oliveira@escola.pr.gov.br)
+
 - 👋 ola,eu sou @DIANAOLIVI
 - 👀 estou interessada em programaçao  html
 - 🌱frequentemente busco aprender css.gihub,desenvolvimento pessoal
 - 💞️ eu sou aluna de penamento cupatacional/ colegio mario quintana.
-- 📫 How to reach me ...
+- 📫 meu email:adrielly.machado.oliveira@escola.pr.gov.br
 
 <!---
 DIANAOLIVI/DIANAOLIVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
